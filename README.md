@@ -11,7 +11,7 @@ Take a look at some of my repositories!
 
 💻*farahandsons and v2 - Custom Website build with react and vite.
 
-💳*Horizon
+💳*banking-app - banking application featuring dwolla and plaid for user transactions developed with next.js
 
 📲*Research - Coming soon mobile app built with ionic 
 
