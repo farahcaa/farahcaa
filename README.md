@@ -1,8 +1,7 @@
 Student Software Engineer specializing in backend and full-stack development.
 Proficient in Java Spring Boot, React, PostgreSQL, Docker, and Keycloak.
 Experienced in building secure, scalable web applications and deploying them with CI/CD pipelines.
-Currently developing CampusCribs, a platform connecting students with housing opportunities.
-Passionate about solving real-world problems through clean, maintainable code and efficient system design.
+Currently developing LexGrip an AI driven language learning platform. Passionate about solving real-world problems through clean, maintainable code and efficient system design.
 
 
 <!---
